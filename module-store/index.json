@@ -256,15 +256,15 @@
     {
       "id": "hongguo",
       "name": "红果",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "description": "短剧 · 漫剧 · AI 剧 · 听书",
       "api": 1,
       "adult": false,
       "repo": "cswcss20/guoapp-modules",
-      "tag": "v1.0.12",
+      "tag": "v1.0.13",
       "sha256": {
-        "manifest.json": "5ebaf6a69689e2d82dfdc327037dc41a7a532eb6c77312d00234702a0e0cd26a",
-        "main.js": "d10222575c7a5e66460f7e189ccf9dfbfc357bc9e91fe3bd8e289e6f084964a2"
+        "manifest.json": "43a3e72cef8b54923b516cc7c955d2cb116c7aa11e4b9745dc4a35b04d824b66",
+        "main.js": "acfd6215c612d7074f192550a23616b35beaa1932f1aba92f8b5244fd7f9f500"
       }
     }
   ]
