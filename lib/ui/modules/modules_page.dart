@@ -13,7 +13,9 @@ import '../../source_modules.dart';
 import '../app_scope.dart';
 import '../settings/settings_rows.dart';
 import 'module_install.dart';
+import '../settings/emby_account_view.dart';
 import '../settings/sorani_account_view.dart';
+import 'browser_auth_view.dart';
 import '../widgets/bar_button.dart';
 import '../widgets/focus_ring.dart';
 import '../widgets/form_text_field.dart';
@@ -897,6 +899,14 @@ class _InstalledCard extends StatelessWidget {
       leading: [
         if (!television && module.id == 'sorani' && soraniAccountAvailable())
           SoraniAccountButton(admin: admin, style: _cardButton(colors)),
+        if (!television &&
+            module.id == 'emby' &&
+            module.capabilities.contains('account'))
+          EmbyAccountButton(admin: admin, style: _cardButton(colors)),
+        if (!television &&
+            module.id == 'supjav-cookie' &&
+            module.capabilities.contains('account'))
+          BrowserAuthButton(source: module.id, style: _cardButton(colors)),
       ],
       actions: television
           ? const []
@@ -1303,6 +1313,11 @@ class _ModuleMenu extends StatelessWidget {
       actions: [
         if (module.id == 'sorani' && soraniAccountAvailable())
           SoraniAccountButton(admin: admin),
+        if (module.id == 'emby' && module.capabilities.contains('account'))
+          EmbyAccountButton(admin: admin),
+        if (module.id == 'supjav-cookie' &&
+            module.capabilities.contains('account'))
+          BrowserAuthButton(source: module.id),
         if (update != null)
           FocusRing(
             radius: 20,
