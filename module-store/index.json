@@ -144,15 +144,15 @@
     {
       "id": "huangguoai",
       "name": "黄果 AI",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "AI 短剧",
       "api": 1,
       "adult": true,
-      "repo": "guoapp-modules/huangguoai",
-      "tag": "v1.0.1",
+      "repo": "cswcss20/guoapp-modules",
+      "tag": "v1.0.2",
       "sha256": {
-        "manifest.json": "7439d054b4672d1dc268bacfc886650e5142531905ff0fadc363e07af67efb61",
-        "main.js": "5b9e86ac42295b94b2abe1c8ee6a09cb2d86e01e45e44809f34ecb8b1cb7c5d0"
+        "manifest.json": "a73abca26459c57fc6221b0285b6552240a7e6a24d409d07a0174ded325fb44f",
+        "main.js": "68dc892bdeb84bd78e2900ead6b198595aa36f1f0d94a65c7a1907c793df75a4"
       }
     },
     {
