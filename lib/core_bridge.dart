@@ -233,9 +233,14 @@ abstract class AppRepository {
     int quality = 0,
   }) => resolve(drama, episode, quality: quality);
   Future<AppUpdate?> checkUpdate(String version) async => null;
-  Future<void> reportUsage(String version) async {}
   Future<bool> sourceDevices(String source, {bool register = false}) async =>
       true;
+  /// 调用站源模块的 account(command, payload)，用于浏览器验证后回写 Cookie/UA。
+  Future<Map<String, dynamic>> sourceAccount(
+    String source,
+    String command,
+    Map<String, dynamic> payload,
+  ) async => throw AppFailure('当前版本不支持站源账号验证');
   Future<SoraniAccount> soraniAccount() async => const SoraniAccount();
   Future<SoraniCaptcha> soraniCaptcha() async =>
       throw AppFailure('当前版本不支持登录青空次元');
@@ -628,11 +633,6 @@ class NativeRepository extends AppRepository {
   }
 
   @override
-  Future<void> reportUsage(String version) async {
-    await _call({'action': 'reportUsage', 'version': version});
-  }
-
-  @override
   Future<bool> sourceDevices(String source, {bool register = false}) async =>
       (await _call({
         'action': 'sourceDevices',
@@ -640,6 +640,20 @@ class NativeRepository extends AppRepository {
         if (register) 'command': 'register',
       }))['ready'] ==
       true;
+
+  @override
+  Future<Map<String, dynamic>> sourceAccount(
+    String source,
+    String command,
+    Map<String, dynamic> payload,
+  ) {
+    return _call({
+      'action': 'sourceAccount',
+      'source': source,
+      'command': command,
+      'account': payload,
+    });
+  }
 
   void _soraniPermission() {
     if (access != null && (access!.locked || !access!.profile.admin)) {
