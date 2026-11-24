@@ -148,7 +148,7 @@
       "description": "AI 短剧",
       "api": 1,
       "adult": true,
-      "repo": "cswcss20/guoapp-modules",
+      "repo": "cswcss20/hopeapp-modules",
       "tag": "v1.0.5",
       "sha256": {
         "manifest.json": "91e235d307ad88453de91a6056651f5ff9879767acd0a4a8d7900179a6faeea8",
@@ -204,7 +204,7 @@
       "description": "分类视频 · 在线搜索",
       "api": 1,
       "adult": true,
-      "repo": "cswcss20/guoapp-modules",
+      "repo": "cswcss20/hopeapp-modules",
       "tag": "v1.0.4",
       "sha256": {
         "manifest.json": "6c4c3edc1d83e9e86fdcd7406f257367c57969a5e2b8be9371b07abf9be0b545",
@@ -246,7 +246,7 @@
       "description": "Jable.tv · 最近更新/热门/新片/标签 · 搜索 · HLS · 作者 TNJKL",
       "api": 1,
       "adult": true,
-      "repo": "cswcss20/guoapp-modules",
+      "repo": "cswcss20/hopeapp-modules",
       "tag": "v1.2.7",
       "sha256": {
         "manifest.json": "0181d60b766dab230dc25c03fbe2f1250b4b4912737a00f5b9b50d9b8c45d1b1",
@@ -260,7 +260,7 @@
       "description": "短剧 · 漫剧 · AI 剧 · 听书",
       "api": 1,
       "adult": false,
-      "repo": "cswcss20/guoapp-modules",
+      "repo": "cswcss20/hopeapp-modules",
       "tag": "v1.0.13",
       "sha256": {
         "manifest.json": "43a3e72cef8b54923b516cc7c955d2cb116c7aa11e4b9745dc4a35b04d824b66",
@@ -274,7 +274,7 @@
       "description": "连接你的 Emby 服务器（在本应用的模块页登录后使用）",
       "api": 1,
       "adult": false,
-      "repo": "cswcss20/guoapp-modules",
+      "repo": "cswcss20/hopeapp-modules",
       "tag": "v1.0.8",
       "sha256": {
         "manifest.json": "5bc17c978b5c78d0644a0e726ee07c170a3c375c38391c5a80d5f4e4c0d81d04",
