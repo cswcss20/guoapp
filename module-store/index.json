@@ -252,6 +252,20 @@
         "manifest.json": "0181d60b766dab230dc25c03fbe2f1250b4b4912737a00f5b9b50d9b8c45d1b1",
         "main.js": "eef53915f1a0b4062766bd977fc8f4762f259c9146422e8d3233a22c80db9a50"
       }
+    },
+    {
+      "id": "hongguo",
+      "name": "红果",
+      "version": "1.0.12",
+      "description": "短剧 · 漫剧 · AI 剧 · 听书",
+      "api": 1,
+      "adult": false,
+      "repo": "cswcss20/guoapp-modules",
+      "tag": "v1.0.12",
+      "sha256": {
+        "manifest.json": "5ebaf6a69689e2d82dfdc327037dc41a7a532eb6c77312d00234702a0e0cd26a",
+        "main.js": "d10222575c7a5e66460f7e189ccf9dfbfc357bc9e91fe3bd8e289e6f084964a2"
+      }
     }
   ]
 }
