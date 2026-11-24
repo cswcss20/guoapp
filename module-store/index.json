@@ -200,15 +200,15 @@
     {
       "id": "missav",
       "name": "MissAV",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "description": "分类视频 · 在线搜索",
       "api": 1,
       "adult": true,
-      "repo": "guoapp-modules/missav",
-      "tag": "v1.0.1",
+      "repo": "cswcss20/guoapp-modules",
+      "tag": "v1.0.3",
       "sha256": {
-        "manifest.json": "a3c81f5188a0c9ef00e46f0a30a045beab5b39493ba357d94b80718cb808e524",
-        "main.js": "06774ff7d89489bdd200efd1a224b82e750eca83da25a52ad12f6b8f95134681"
+        "manifest.json": "cee05a4d316933bf8f9ab5a56a58e9cdccc5223cf3727e4decdffb7b2453788e",
+        "main.js": "d7f5e097dd3d24987579e8190edadf2dc0ff3417bbcd73704f5094a1a2e4dcc0"
       }
     },
     {
