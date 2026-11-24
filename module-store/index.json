@@ -270,15 +270,15 @@
     {
       "id": "emby",
       "name": "Emby",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "连接你的 Emby 服务器（在本应用的模块页登录后使用）",
       "api": 1,
       "adult": false,
       "repo": "cswcss20/guoapp-modules",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "sha256": {
-        "manifest.json": "86327b5e506949826e0e2abcddeac045e4c62b0624bf2c1f18341572214b9228",
-        "main.js": "49043f2af8a51eccf4b9509ea49f1d02a4e56d7cef7155e4792ae4a65c90a1a1"
+        "manifest.json": "c4bfcfd63f86151c79e9a644b8948e7f79d8de483e9c6d5e44e8c53cd9e15337",
+        "main.js": "08fc2f8dddab9661a62c50e728029b0be820da29b32307c43384ea510dee4104"
       }
     }
   ]
