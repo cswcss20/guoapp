@@ -158,15 +158,15 @@
     {
       "id": "huangju",
       "name": "剧果",
-      "version": "1.0.1",
+      "version": "1.0.23",
       "description": "热门 · 最新 · 分类短剧",
       "api": 1,
       "adult": true,
       "repo": "guoapp-modules/huangju",
-      "tag": "v1.0.1",
+      "tag": "v1.0.23",
       "sha256": {
-        "manifest.json": "6a0b6e6a0876be2585a3f165d16b38209794029fa799482e283d7650117c36bf",
-        "main.js": "33dd8316c42f3e0fb34b189c50a6414e983a4b7b4cbe05bbbc8f24d20d6bff5b"
+        "manifest.json": "af225b9722da34f9a8ef7b08678e2e0a09d0a4419ba263286994fa19a2e8c0ec",
+        "main.js": "1d0e42cab29cf46eca8425f901598a18d6018a90e291698791b13d1dde59f03e"
       }
     },
     {
