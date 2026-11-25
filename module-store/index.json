@@ -30,20 +30,6 @@
       }
     },
     {
-      "id": "dsd",
-      "name": "帝果",
-      "version": "1.0.17",
-      "description": "分类视频 · 在线搜索",
-      "api": 1,
-      "adult": true,
-      "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.17",
-      "sha256": {
-        "manifest.json": "4d796c0461734fa4e5c5bb112614907d31746e1a12b93e9309216d86a17bd1fb",
-        "main.js": "d0b4af005d4928336b70f1b7bb876a5b27211bcbc730b0b6ad6128b5d1776945"
-      }
-    },
-    {
       "id": "guipian",
       "name": "鬼片",
       "version": "1.0.1",
