@@ -32,15 +32,15 @@
     {
       "id": "dsd",
       "name": "帝果",
-      "version": "1.0.1",
+      "version": "1.0.17",
       "description": "分类视频 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "guoapp-modules/dsd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.17",
       "sha256": {
-        "manifest.json": "20ae6c86a0d72e174eb8004ad32905bdefdec2a323c40a24bf65445221cc6565",
-        "main.js": "265afa272ac65273ec5d01b815d7905de3566c4329b57e131f854ec8105dbbbc"
+        "manifest.json": "4d796c0461734fa4e5c5bb112614907d31746e1a12b93e9309216d86a17bd1fb",
+        "main.js": "d0b4af005d4928336b70f1b7bb876a5b27211bcbc730b0b6ad6128b5d1776945"
       }
     },
     {
