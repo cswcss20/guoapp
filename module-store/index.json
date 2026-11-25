@@ -18,15 +18,15 @@
     {
       "id": "chaoliu",
       "name": "潮流AV",
-      "version": "1.0.9",
+      "version": "1.0.16",
       "description": "分类视频 · 在线搜索 · 1080P/720P",
       "api": 1,
       "adult": true,
       "repo": "guoapp-modules/chaoliu",
-      "tag": "v1.0.9",
+      "tag": "v1.0.16",
       "sha256": {
-        "manifest.json": "c515430b6c0dd8adb80b275d86f78b4cf8f3b0a98d5fad3b887726e95bd810b1",
-        "main.js": "5170db1d7c33875dd9db0239645111b6c17ed8e3b69ac1b4a150dea1e7e75d79"
+        "manifest.json": "a8d41def69f800aabb647ed3b757a7c0c5bdd5c6e8cacae58071feeae938e400",
+        "main.js": "8229a0117f881b71d6b24f67ab3ab4362a23d52a1efeb51efcdfd6c120fed5fd"
       }
     },
     {
