@@ -116,15 +116,15 @@
     {
       "id": "huangguo-old",
       "name": "黄果旧版",
-      "version": "1.0.0",
+      "version": "1.0.21",
       "description": "旧 API 剧库",
       "api": 1,
       "adult": true,
       "repo": "guoapp-modules/huangguo-old",
-      "tag": "v1.0.0",
+      "tag": "v1.0.21",
       "sha256": {
-        "manifest.json": "4453792710e2a8d661de20cd6cf869ed31daba993b594e7e66784bc95b6c75ca",
-        "main.js": "7cb1e3431c6dcb2371627b761ae1de4da87478f2d6cc0cf86098c77d4a1d94f0"
+        "manifest.json": "c200d3d57cd0972f7dcd6067649a9324ace0a7d65d62bdbaa0204d62d66c2de7",
+        "main.js": "83a96524bbd20f84906fc8270360bc2e1fe19ce07faa93a52ff1bde56685d04e"
       }
     },
     {
