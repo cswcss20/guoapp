@@ -144,15 +144,15 @@
     {
       "id": "huangguoai",
       "name": "黄果 AI",
-      "version": "1.0.5",
+      "version": "1.0.10",
       "description": "AI 短剧",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.5",
+      "tag": "v1.0.10",
       "sha256": {
-        "manifest.json": "91e235d307ad88453de91a6056651f5ff9879767acd0a4a8d7900179a6faeea8",
-        "main.js": "8d470d585747bbbca19cf2f060295336d9f0eb43d7b29a6f2877c6191fcf1a31"
+        "manifest.json": "7ce8518b7e2bfa6f6feba3d3d286aaeab81c28252c82731cb5aa45350fa654b2",
+        "main.js": "7bbee93dbdc5c7633447e05f8cdca7ae83985922e5731470736eaa006c517ccb"
       }
     },
     {
