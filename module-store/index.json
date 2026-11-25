@@ -242,15 +242,15 @@
     {
       "id": "jable",
       "name": "Jable",
-      "version": "1.2.7",
+      "version": "1.2.8",
       "description": "Jable.tv · 最近更新/热门/新片/标签 · 搜索 · HLS · 作者 TNJKL",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.2.7",
+      "tag": "v1.2.8",
       "sha256": {
-        "manifest.json": "0181d60b766dab230dc25c03fbe2f1250b4b4912737a00f5b9b50d9b8c45d1b1",
-        "main.js": "eef53915f1a0b4062766bd977fc8f4762f259c9146422e8d3233a22c80db9a50"
+        "manifest.json": "2ee2db24c3e5735bbfcbf45fc42dce104cc52e47c2d5dd44b463632f8551ad56",
+        "main.js": "f50f12868e0760347d866b6c48827aca6b45d5f332a1b4e356bdae5a75e9a27b"
       }
     },
     {
