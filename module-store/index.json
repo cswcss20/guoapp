@@ -4,15 +4,15 @@
     {
       "id": "beabox",
       "name": "笔盒",
-      "version": "1.0.1",
+      "version": "1.0.15",
       "description": "分类视频 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "guoapp-modules/beabox",
-      "tag": "v1.0.1",
+      "tag": "v1.0.15",
       "sha256": {
-        "manifest.json": "a9bad28677eefb7b454647c031694f2fb3d279dbde24a423d081349578d4928a",
-        "main.js": "0daff652429bdc456f7cd873f6fbe4bdf81a33ef634618239313430f1de4ab57"
+        "manifest.json": "70a617a7c6f5a091b2e69be2c6cce7d75963ffff27458a64a5f82804613d8ed0",
+        "main.js": "bf9c044e13cb0f8033588f73abfaa47bdbc2d0216ed36d2a68ace21ac5adbf90"
       }
     },
     {
