@@ -280,6 +280,20 @@
         "manifest.json": "164871ea490cc079017a615915140bf7459d039b28bdc81ee88f7e372c5545a8",
         "main.js": "ff25c57ceb6ab317f4c2c7a9aac504ecff570dd4705083453fa671dba7c9b34a"
       }
+    },
+    {
+      "id": "libvio",
+      "name": "LIBVIO",
+      "version": "1.0.35",
+      "description": "libvio.lat 影视站适配，含分类、筛选、搜索与播放解析",
+      "api": 1,
+      "adult": false,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.35",
+      "sha256": {
+        "manifest.json": "e4df8586ad404bfe7d199a258bf76f3ce9019f3f62e74c0e894489b97b3fe3da",
+        "main.js": "4a009bc3fab724686efda2f2d97fd5cb4e6d32721bfcee6c386452f1ccde5653"
+      }
     }
   ]
 }
