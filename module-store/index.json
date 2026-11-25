@@ -186,15 +186,15 @@
     {
       "id": "jinguoduanju",
       "name": "禁果短剧",
-      "version": "1.0.1",
+      "version": "1.0.25",
       "description": "推荐 · 分类短剧 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "guoapp-modules/jinguoduanju",
-      "tag": "v1.0.1",
+      "tag": "v1.0.25",
       "sha256": {
-        "manifest.json": "328426a570addcdd803962eee4edc9e4595ce9459807a2da8a50bfc04d675666",
-        "main.js": "fd8076de2f7ea6d0738ef30a2f4005e0786bb248c14285fccc8c5d68f3198371"
+        "manifest.json": "5267ce5fa514063034219e5602ce591fafa30ee342bc372b979fb40c1cc57bc8",
+        "main.js": "7107f3ac7dd24fe8fe3b962c6e711308727a05db5d6a3e00788f03b281838e0c"
       }
     },
     {
