@@ -1,299 +1,299 @@
 {
- "format": 1,
- "modules": [
-  {
-   "id": "beabox",
-   "name": "笔盒",
-   "version": "1.0.15",
-   "description": "分类视频 · 在线搜索",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.15",
-   "sha256": {
-    "manifest.json": "70a617a7c6f5a091b2e69be2c6cce7d75963ffff27458a64a5f82804613d8ed0",
-    "main.js": "bf9c044e13cb0f8033588f73abfaa47bdbc2d0216ed36d2a68ace21ac5adbf90"
-   }
-  },
-  {
-   "id": "chaoliu",
-   "name": "潮流AV",
-   "version": "1.0.16",
-   "description": "分类视频 · 在线搜索 · 1080P/720P",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.16",
-   "sha256": {
-    "manifest.json": "a8d41def69f800aabb647ed3b757a7c0c5bdd5c6e8cacae58071feeae938e400",
-    "main.js": "8229a0117f881b71d6b24f67ab3ab4362a23d52a1efeb51efcdfd6c120fed5fd"
-   }
-  },
-  {
-   "id": "dsd",
-   "name": "帝果",
-   "version": "1.0.17",
-   "description": "分类视频 · 在线搜索",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.17",
-   "sha256": {
-    "manifest.json": "4d796c0461734fa4e5c5bb112614907d31746e1a12b93e9309216d86a17bd1fb",
-    "main.js": "d0b4af005d4928336b70f1b7bb876a5b27211bcbc730b0b6ad6128b5d1776945"
-   }
-  },
-  {
-   "id": "guipian",
-   "name": "鬼片",
-   "version": "1.0.1",
-   "description": "鬼片 · 电视剧 · 动漫",
-   "api": 1,
-   "adult": false,
-   "repo": "guoapp-modules/guipian",
-   "tag": "v1.0.1",
-   "sha256": {
-    "manifest.json": "bbfd41262474a930e7317347555fc9e97beb0672de8ff0bcff74374c3ce25098",
-    "main.js": "63c43a0c808b915ea55952c3d4f6c6d9f2ed27155ae0486c2030edb80ffc1099"
-   }
-  },
-  {
-   "id": "hanime1",
-   "name": "Hanime1",
-   "version": "1.0.1",
-   "description": "分类视频 · 在线搜索 · 多清晰度 · 日本 IP 无法访问",
-   "api": 1,
-   "adult": true,
-   "repo": "guoapp-modules/hanime1",
-   "tag": "v1.0.1",
-   "sha256": {
-    "manifest.json": "d90efd95958760d8ab9d935a0f249e49f72625c8a475d5d584fa3a7028a54829",
-    "main.js": "f14bd4bffcfbc24cf259de527e7fb2e0da3aaaa86f75ae3eed0de5575a1a1dc1"
-   }
-  },
-  {
-   "id": "hanxiaoquan",
-   "name": "韩小圈",
-   "version": "1.0.18",
-   "description": "韩剧 · 韩国电影 · 综艺动漫",
-   "api": 1,
-   "adult": false,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.18",
-   "sha256": {
-    "manifest.json": "bf28c178d6010750e64c7b642e470791830bfea464cd42d8f6b95feba32c642e",
-    "main.js": "0c465f44cc0e8b5aab085551e08e1c7530a90aa08257f8fd9ea320cb00be18e8"
-   }
-  },
-  {
-   "id": "heitao",
-   "name": "黑桃",
-   "version": "1.0.19",
-   "description": "分类短剧 · 在线搜索",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.19",
-   "sha256": {
-    "manifest.json": "3afe385462dec8d6f037b84d92ad4cedac7ecb837760f1b02bbacd9b4d36d139",
-    "main.js": "8ace2dfd37b16347c11a06f5c38de0629defcfbc297267932371559690e69964"
-   }
-  },
-  {
-   "id": "huangdou",
-   "name": "黄豆",
-   "version": "1.0.20",
-   "description": "精选短剧",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.20",
-   "sha256": {
-    "manifest.json": "f33cc82454161d95bb27d35be7cd1b5efea505b6eecf15a956b5747df61abfd6",
-    "main.js": "a9e845519c9e562e215d983b026b7f11c8068f33996a5b3fd83ca8325d210dc8"
-   }
-  },
-  {
-   "id": "huangguo-old",
-   "name": "黄果旧版",
-   "version": "1.0.21",
-   "description": "旧 API 剧库",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.21",
-   "sha256": {
-    "manifest.json": "c200d3d57cd0972f7dcd6067649a9324ace0a7d65d62bdbaa0204d62d66c2de7",
-    "main.js": "83a96524bbd20f84906fc8270360bc2e1fe19ce07faa93a52ff1bde56685d04e"
-   }
-  },
-  {
-   "id": "huangguo-video",
-   "name": "黄果视频",
-   "version": "1.0.22",
-   "description": "视频剧集",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.22",
-   "sha256": {
-    "manifest.json": "421b7cac2ce93d0456dd5887abde891ad15a1977f65f7e8416d2de1f7ed37a7f",
-    "main.js": "5607be38cd3af7e00c54bf6a94663c3e639cc93cb3583f00a95e78d73924c2fb"
-   }
-  },
-  {
-   "id": "huangguoai",
-   "name": "黄果 AI",
-   "version": "1.0.10",
-   "description": "AI 短剧",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.10",
-   "sha256": {
-    "manifest.json": "7ce8518b7e2bfa6f6feba3d3d286aaeab81c28252c82731cb5aa45350fa654b2",
-    "main.js": "7bbee93dbdc5c7633447e05f8cdca7ae83985922e5731470736eaa006c517ccb"
-   }
-  },
-  {
-   "id": "huangju",
-   "name": "剧果",
-   "version": "1.0.23",
-   "description": "热门 · 最新 · 分类短剧",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.23",
-   "sha256": {
-    "manifest.json": "af225b9722da34f9a8ef7b08678e2e0a09d0a4419ba263286994fa19a2e8c0ec",
-    "main.js": "1d0e42cab29cf46eca8425f901598a18d6018a90e291698791b13d1dde59f03e"
-   }
-  },
-  {
-   "id": "ikanbot",
-   "name": "爱看机器人",
-   "version": "1.0.24",
-   "description": "爱看机器人（ikanbot）——全网聚合搜索式影视源，多线路可切换",
-   "api": 1,
-   "adult": false,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.24",
-   "sha256": {
-    "manifest.json": "b92c54cd46936f2203f3b0e7949bc02fd3540d488448a082494660f79ef64a87",
-    "main.js": "85b1cd33669125bcf9794fa4fc90a8210e02490c33fe927d572123cb9f1a2112"
-   }
-  },
-  {
-   "id": "jinguoduanju",
-   "name": "禁果短剧",
-   "version": "1.0.25",
-   "description": "推荐 · 分类短剧 · 在线搜索",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.25",
-   "sha256": {
-    "manifest.json": "5267ce5fa514063034219e5602ce591fafa30ee342bc372b979fb40c1cc57bc8",
-    "main.js": "7107f3ac7dd24fe8fe3b962c6e711308727a05db5d6a3e00788f03b281838e0c"
-   }
-  },
-  {
-   "id": "missav",
-   "name": "MissAV",
-   "version": "1.0.9",
-   "description": "分类视频 · 在线搜索",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.9",
-   "sha256": {
-    "manifest.json": "e36a8a3feee2b52e67846574cc74a2ff0f1fe85b1ad6e4d2d96ed190bad0e365",
-    "main.js": "6ea79ebc66200122de287bb7e6148c75e3ec3ceea615921f0565423d71b9b25a"
-   }
-  },
-  {
-   "id": "sorani",
-   "name": "青空",
-   "version": "1.0.26",
-   "description": "番剧 · 剧场动画 · 特摄",
-   "api": 1,
-   "adult": false,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.26",
-   "sha256": {
-    "manifest.json": "1790d8603437496d049516f94c39099c69e8d83528a4045a448454809c13e14a",
-    "main.js": "0c9f5b246f3df4954b2534b3d119c383b23a7d5ca18bd87f3a00af1ccede802c"
-   }
-  },
-  {
-   "id": "yeguo",
-   "name": "野果",
-   "version": "1.0.27",
-   "description": "分类短剧 · 在线搜索",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.27",
-   "sha256": {
-    "manifest.json": "56b6c20c7579d9881ad658b0b5b174a5437384afd453d1d2967817d86736ec93",
-    "main.js": "289bc8a0d1267eb0dc0da0a6cbc751427143c7874f4dcb99178f619865dea9a8"
-   }
-  },
-  {
-   "id": "jable",
-   "name": "Jable",
-   "version": "1.2.8",
-   "description": "Jable.tv · 最近更新/热门/新片/标签 · 搜索 · HLS · 作者 TNJKL",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.2.8",
-   "sha256": {
-    "manifest.json": "2ee2db24c3e5735bbfcbf45fc42dce104cc52e47c2d5dd44b463632f8551ad56",
-    "main.js": "f50f12868e0760347d866b6c48827aca6b45d5f332a1b4e356bdae5a75e9a27b"
-   }
-  },
-  {
-   "id": "hongguo",
-   "name": "红果",
-   "version": "1.0.14",
-   "description": "短剧 · 漫剧 · AI 剧 · 听书",
-   "api": 1,
-   "adult": false,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.14",
-   "sha256": {
-    "manifest.json": "c7651352372ff166765cf7b0a080905d88ee29c13750e574fda0a6286449f5df",
-    "main.js": "e4e8c6271b05ee152fa42debc337a4567e9fc39e04e3310d8926a5432f874b30"
-   }
-  },
-  {
-   "id": "emby",
-   "name": "Emby",
-   "version": "1.0.11",
-   "description": "连接你的 Emby 服务器（在本应用的模块页登录后使用）",
-   "api": 1,
-   "adult": false,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.0.11",
-   "sha256": {
-    "manifest.json": "8a6c0911f93ad560d1f90de802bffde479a95b637ce3344962f3687f521baab9",
-    "main.js": "a234c9cd23464ccf2974526c30713c29c90502b8afad74d1c43092bac6e1121e"
-   }
-  },
-  {
-   "id": "fourkvm",
-   "name": "4k影视",
-   "version": "1.1.0",
-   "description": "4kvm.net 影视站适配，含分类、筛选、搜索与播放解析",
-   "api": 1,
-   "adult": true,
-   "repo": "cswcss20/hopeapp-modules",
-   "tag": "v1.1.0",
-   "sha256": {
-    "manifest.json": "164871ea490cc079017a615915140bf7459d039b28bdc81ee88f7e372c5545a8",
-    "main.js": "ff25c57ceb6ab317f4c2c7a9aac504ecff570dd4705083453fa671dba7c9b34a"
-   }
-  }
- ]
+  "format": 1,
+  "modules": [
+    {
+      "id": "beabox",
+      "name": "笔盒",
+      "version": "1.0.15",
+      "description": "分类视频 · 在线搜索",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.15",
+      "sha256": {
+        "manifest.json": "70a617a7c6f5a091b2e69be2c6cce7d75963ffff27458a64a5f82804613d8ed0",
+        "main.js": "bf9c044e13cb0f8033588f73abfaa47bdbc2d0216ed36d2a68ace21ac5adbf90"
+      }
+    },
+    {
+      "id": "chaoliu",
+      "name": "潮流AV",
+      "version": "1.0.16",
+      "description": "分类视频 · 在线搜索 · 1080P/720P",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.16",
+      "sha256": {
+        "manifest.json": "a8d41def69f800aabb647ed3b757a7c0c5bdd5c6e8cacae58071feeae938e400",
+        "main.js": "8229a0117f881b71d6b24f67ab3ab4362a23d52a1efeb51efcdfd6c120fed5fd"
+      }
+    },
+    {
+      "id": "dsd",
+      "name": "帝果",
+      "version": "1.0.17",
+      "description": "分类视频 · 在线搜索",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.17",
+      "sha256": {
+        "manifest.json": "4d796c0461734fa4e5c5bb112614907d31746e1a12b93e9309216d86a17bd1fb",
+        "main.js": "d0b4af005d4928336b70f1b7bb876a5b27211bcbc730b0b6ad6128b5d1776945"
+      }
+    },
+    {
+      "id": "guipian",
+      "name": "鬼片",
+      "version": "1.0.1",
+      "description": "鬼片 · 电视剧 · 动漫",
+      "api": 1,
+      "adult": false,
+      "repo": "guoapp-modules/guipian",
+      "tag": "v1.0.1",
+      "sha256": {
+        "manifest.json": "bbfd41262474a930e7317347555fc9e97beb0672de8ff0bcff74374c3ce25098",
+        "main.js": "63c43a0c808b915ea55952c3d4f6c6d9f2ed27155ae0486c2030edb80ffc1099"
+      }
+    },
+    {
+      "id": "hanime1",
+      "name": "Hanime1",
+      "version": "1.0.1",
+      "description": "分类视频 · 在线搜索 · 多清晰度 · 日本 IP 无法访问",
+      "api": 1,
+      "adult": true,
+      "repo": "guoapp-modules/hanime1",
+      "tag": "v1.0.1",
+      "sha256": {
+        "manifest.json": "d90efd95958760d8ab9d935a0f249e49f72625c8a475d5d584fa3a7028a54829",
+        "main.js": "f14bd4bffcfbc24cf259de527e7fb2e0da3aaaa86f75ae3eed0de5575a1a1dc1"
+      }
+    },
+    {
+      "id": "hanxiaoquan",
+      "name": "韩小圈",
+      "version": "1.0.18",
+      "description": "韩剧 · 韩国电影 · 综艺动漫",
+      "api": 1,
+      "adult": false,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.18",
+      "sha256": {
+        "manifest.json": "bf28c178d6010750e64c7b642e470791830bfea464cd42d8f6b95feba32c642e",
+        "main.js": "0c465f44cc0e8b5aab085551e08e1c7530a90aa08257f8fd9ea320cb00be18e8"
+      }
+    },
+    {
+      "id": "heitao",
+      "name": "黑桃",
+      "version": "1.0.19",
+      "description": "分类短剧 · 在线搜索",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.19",
+      "sha256": {
+        "manifest.json": "3afe385462dec8d6f037b84d92ad4cedac7ecb837760f1b02bbacd9b4d36d139",
+        "main.js": "8ace2dfd37b16347c11a06f5c38de0629defcfbc297267932371559690e69964"
+      }
+    },
+    {
+      "id": "huangdou",
+      "name": "黄豆",
+      "version": "1.0.20",
+      "description": "精选短剧",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.20",
+      "sha256": {
+        "manifest.json": "f33cc82454161d95bb27d35be7cd1b5efea505b6eecf15a956b5747df61abfd6",
+        "main.js": "a9e845519c9e562e215d983b026b7f11c8068f33996a5b3fd83ca8325d210dc8"
+      }
+    },
+    {
+      "id": "huangguo-old",
+      "name": "黄果旧版",
+      "version": "1.0.21",
+      "description": "旧 API 剧库",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.21",
+      "sha256": {
+        "manifest.json": "c200d3d57cd0972f7dcd6067649a9324ace0a7d65d62bdbaa0204d62d66c2de7",
+        "main.js": "83a96524bbd20f84906fc8270360bc2e1fe19ce07faa93a52ff1bde56685d04e"
+      }
+    },
+    {
+      "id": "huangguo-video",
+      "name": "黄果视频",
+      "version": "1.0.22",
+      "description": "视频剧集",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.22",
+      "sha256": {
+        "manifest.json": "421b7cac2ce93d0456dd5887abde891ad15a1977f65f7e8416d2de1f7ed37a7f",
+        "main.js": "5607be38cd3af7e00c54bf6a94663c3e639cc93cb3583f00a95e78d73924c2fb"
+      }
+    },
+    {
+      "id": "huangguoai",
+      "name": "黄果 AI",
+      "version": "1.0.10",
+      "description": "AI 短剧",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.10",
+      "sha256": {
+        "manifest.json": "7ce8518b7e2bfa6f6feba3d3d286aaeab81c28252c82731cb5aa45350fa654b2",
+        "main.js": "7bbee93dbdc5c7633447e05f8cdca7ae83985922e5731470736eaa006c517ccb"
+      }
+    },
+    {
+      "id": "huangju",
+      "name": "剧果",
+      "version": "1.0.23",
+      "description": "热门 · 最新 · 分类短剧",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.23",
+      "sha256": {
+        "manifest.json": "af225b9722da34f9a8ef7b08678e2e0a09d0a4419ba263286994fa19a2e8c0ec",
+        "main.js": "1d0e42cab29cf46eca8425f901598a18d6018a90e291698791b13d1dde59f03e"
+      }
+    },
+    {
+      "id": "ikanbot",
+      "name": "爱看机器人",
+      "version": "1.0.24",
+      "description": "爱看机器人（ikanbot）——全网聚合搜索式影视源，多线路可切换",
+      "api": 1,
+      "adult": false,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.24",
+      "sha256": {
+        "manifest.json": "b92c54cd46936f2203f3b0e7949bc02fd3540d488448a082494660f79ef64a87",
+        "main.js": "85b1cd33669125bcf9794fa4fc90a8210e02490c33fe927d572123cb9f1a2112"
+      }
+    },
+    {
+      "id": "jinguoduanju",
+      "name": "禁果短剧",
+      "version": "1.0.25",
+      "description": "推荐 · 分类短剧 · 在线搜索",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.25",
+      "sha256": {
+        "manifest.json": "5267ce5fa514063034219e5602ce591fafa30ee342bc372b979fb40c1cc57bc8",
+        "main.js": "7107f3ac7dd24fe8fe3b962c6e711308727a05db5d6a3e00788f03b281838e0c"
+      }
+    },
+    {
+      "id": "missav",
+      "name": "MissAV",
+      "version": "1.0.28",
+      "description": "分类视频 · 在线搜索",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.28",
+      "sha256": {
+        "manifest.json": "295d80ac3754595dbfcc6e595452217b6a172babca99bf40de101bc0dbe01a1f",
+        "main.js": "7a59b6e676fea47b20eb838b5edb0124c97cd967bec0f228b26fdf1f2685542d"
+      }
+    },
+    {
+      "id": "sorani",
+      "name": "青空",
+      "version": "1.0.26",
+      "description": "番剧 · 剧场动画 · 特摄",
+      "api": 1,
+      "adult": false,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.26",
+      "sha256": {
+        "manifest.json": "1790d8603437496d049516f94c39099c69e8d83528a4045a448454809c13e14a",
+        "main.js": "0c9f5b246f3df4954b2534b3d119c383b23a7d5ca18bd87f3a00af1ccede802c"
+      }
+    },
+    {
+      "id": "yeguo",
+      "name": "野果",
+      "version": "1.0.27",
+      "description": "分类短剧 · 在线搜索",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.27",
+      "sha256": {
+        "manifest.json": "56b6c20c7579d9881ad658b0b5b174a5437384afd453d1d2967817d86736ec93",
+        "main.js": "289bc8a0d1267eb0dc0da0a6cbc751427143c7874f4dcb99178f619865dea9a8"
+      }
+    },
+    {
+      "id": "jable",
+      "name": "Jable",
+      "version": "1.2.8",
+      "description": "Jable.tv · 最近更新/热门/新片/标签 · 搜索 · HLS · 作者 TNJKL",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.2.8",
+      "sha256": {
+        "manifest.json": "2ee2db24c3e5735bbfcbf45fc42dce104cc52e47c2d5dd44b463632f8551ad56",
+        "main.js": "f50f12868e0760347d866b6c48827aca6b45d5f332a1b4e356bdae5a75e9a27b"
+      }
+    },
+    {
+      "id": "hongguo",
+      "name": "红果",
+      "version": "1.0.14",
+      "description": "短剧 · 漫剧 · AI 剧 · 听书",
+      "api": 1,
+      "adult": false,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.14",
+      "sha256": {
+        "manifest.json": "c7651352372ff166765cf7b0a080905d88ee29c13750e574fda0a6286449f5df",
+        "main.js": "e4e8c6271b05ee152fa42debc337a4567e9fc39e04e3310d8926a5432f874b30"
+      }
+    },
+    {
+      "id": "emby",
+      "name": "Emby",
+      "version": "1.0.11",
+      "description": "连接你的 Emby 服务器（在本应用的模块页登录后使用）",
+      "api": 1,
+      "adult": false,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.11",
+      "sha256": {
+        "manifest.json": "8a6c0911f93ad560d1f90de802bffde479a95b637ce3344962f3687f521baab9",
+        "main.js": "a234c9cd23464ccf2974526c30713c29c90502b8afad74d1c43092bac6e1121e"
+      }
+    },
+    {
+      "id": "fourkvm",
+      "name": "4k影视",
+      "version": "1.1.0",
+      "description": "4kvm.net 影视站适配，含分类、筛选、搜索与播放解析",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.1.0",
+      "sha256": {
+        "manifest.json": "164871ea490cc079017a615915140bf7459d039b28bdc81ee88f7e372c5545a8",
+        "main.js": "ff25c57ceb6ab317f4c2c7a9aac504ecff570dd4705083453fa671dba7c9b34a"
+      }
+    }
+  ]
 }
