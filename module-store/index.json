@@ -256,15 +256,15 @@
     {
       "id": "emby",
       "name": "Emby",
-      "version": "1.0.11",
+      "version": "1.0.44",
       "description": "连接你的 Emby 服务器（在本应用的模块页登录后使用）",
       "api": 1,
       "adult": false,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.11",
+      "tag": "v1.0.44",
       "sha256": {
-        "manifest.json": "8a6c0911f93ad560d1f90de802bffde479a95b637ce3344962f3687f521baab9",
-        "main.js": "a234c9cd23464ccf2974526c30713c29c90502b8afad74d1c43092bac6e1121e"
+        "manifest.json": "f9067872ee3adc01bda2239cc7e7222de2d493400192771f9e0f5b342a22fe3d",
+        "main.js": "80d2f13b078385ffdf1685403259d15cc65c41b8c466adf57273751d2297fff6"
       }
     },
     {
