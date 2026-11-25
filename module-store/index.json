@@ -88,15 +88,15 @@
     {
       "id": "heitao",
       "name": "黑桃",
-      "version": "1.0.1",
+      "version": "1.0.19",
       "description": "分类短剧 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "guoapp-modules/heitao",
-      "tag": "v1.0.1",
+      "tag": "v1.0.19",
       "sha256": {
-        "manifest.json": "a5ea87f19137fdb4d770d249faae97dcda48b4c320ade9b59658b69f680897af",
-        "main.js": "5f59ad4e21da7d272ee1efd76fd21e18b9f640524006325a35f5d437147b75a1"
+        "manifest.json": "3afe385462dec8d6f037b84d92ad4cedac7ecb837760f1b02bbacd9b4d36d139",
+        "main.js": "8ace2dfd37b16347c11a06f5c38de0629defcfbc297267932371559690e69964"
       }
     },
     {
