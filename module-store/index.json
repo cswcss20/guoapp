@@ -102,15 +102,15 @@
     {
       "id": "huangdou",
       "name": "黄豆",
-      "version": "1.0.0",
+      "version": "1.0.20",
       "description": "精选短剧",
       "api": 1,
       "adult": true,
       "repo": "guoapp-modules/huangdou",
-      "tag": "v1.0.0",
+      "tag": "v1.0.20",
       "sha256": {
-        "manifest.json": "d58c2a7f69b764ebfef265cdd3693a5fd96b261c3938ad6c040d233bd27605d1",
-        "main.js": "c1c0aa9d54e1825acfd4411b58e634d58e131a1f0a7266df6d52fce7324aac26"
+        "manifest.json": "f33cc82454161d95bb27d35be7cd1b5efea505b6eecf15a956b5747df61abfd6",
+        "main.js": "a9e845519c9e562e215d983b026b7f11c8068f33996a5b3fd83ca8325d210dc8"
       }
     },
     {
