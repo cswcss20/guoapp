@@ -186,15 +186,15 @@
     {
       "id": "missav",
       "name": "MissAV",
-      "version": "1.0.34",
+      "version": "1.0.52",
       "description": "分类视频 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.34",
+      "tag": "v1.0.52",
       "sha256": {
-        "manifest.json": "d2781d7007daa33458d2deed56a20871ef093e0f148440475b127de1676920d6",
-        "main.js": "9fa4f0da31e9b9bfb97321e5c33d24be11f28c575b3416a867c241f05b5a879d"
+        "manifest.json": "3457b182b2bf93dba4f82ed83596767e7951d7e213effd4c32ed57e5de596444",
+        "main.js": "8de7da97e551f043ee245dd9c0e2f60d2d8c74146cc30781a6ef39e63ae0cf00"
       }
     },
     {
