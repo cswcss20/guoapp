@@ -378,6 +378,20 @@
         "manifest.json": "070d09c37d775eda4fdd9153f4acba350b619214bd29b7cd0bd96f110486360d",
         "main.js": "93e59b145ec42515801911aefba8b70149c05b684661157b5fd9142cda9f4169"
       }
+    },
+    {
+      "id": "anime1",
+      "name": "Anime1",
+      "version": "1.0.56",
+      "description": "動畫線上看 · 最新更新＋按年份分類",
+      "api": 1,
+      "adult": false,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.56",
+      "sha256": {
+        "manifest.json": "1aefbd118586b6b62373b298d451d1504b5040f265f76512a062a6fa0dc8f7d1",
+        "main.js": "46194a49d970d5baf019352f0890e6503f08a6e818e758b6963e1dc15d4c1d83"
+      }
     }
   ]
 }
