@@ -322,6 +322,20 @@
         "manifest.json": "e125ff31a492ad7207298f720aa6124f78644c0e6552089be278aa64338dbe78",
         "main.js": "d320e83692c0d779c1a0e65be8ba24b3b89bc0125c3fd9e33a3f20de6cb61669"
       }
+    },
+    {
+      "id": "selive",
+      "name": "色live",
+      "version": "1.0.50",
+      "description": "130 個直播平台聚合 · 房間即時列表 · 直接播 FLV 直播流",
+      "api": 1,
+      "adult": true,
+      "repo": "cswcss20/hopeapp-modules",
+      "tag": "v1.0.50",
+      "sha256": {
+        "manifest.json": "bba5cd364146e04c2b68742f1858e137bee42fb8aee6b19c8fd1ce67f5fd71f2",
+        "main.js": "bead7f2c061cdf455640aa4c0d4e286cd55e778a7d63972fa948896751fc00da"
+      }
     }
   ]
 }
