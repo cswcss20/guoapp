@@ -193,7 +193,7 @@
       "repo": "cswcss20/hopeapp-modules",
       "tag": "v1.0.105",
       "sha256": {
-        "manifest.json": "5981a8bb23c978cb8b18d1090e3dcc9fb4378ee49c3bbc2367a13b7ea17ee4e7",
+        "manifest.json": "4ae61629fc63c761f5347a87dbcdae33d4721ab3dbbf31fe4a6d0d83b2aed73b",
         "main.js": "429e09a28da1fb8f13dc189a2859bc55908f9c75a91721384b096d030c01e409"
       }
     },
