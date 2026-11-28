@@ -186,15 +186,15 @@
     {
       "id": "missav",
       "name": "MissAV",
-      "version": "1.0.103",
+      "version": "1.0.104",
       "description": "分类视频 · 在线搜索 · 账号收藏同步",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.103",
+      "tag": "v1.0.104",
       "sha256": {
-        "manifest.json": "71e62814d33f673c742d9fb70a2b1f545eb1b716e7986fd8830e9886e2097f61",
-        "main.js": "83b2d664ab9fa0bfd62a0176b980cfa071bfbd8e178c527818a3242974da55b8"
+        "manifest.json": "70bf22839a0ecb9ccaef487a49b4cfd7bd47e43e6387fcaf420d1d28cde9eb68",
+        "main.js": "429e09a28da1fb8f13dc189a2859bc55908f9c75a91721384b096d030c01e409"
       }
     },
     {
