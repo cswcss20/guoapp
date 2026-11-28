@@ -116,15 +116,15 @@
     {
       "id": "huangguo-video",
       "name": "黄果视频",
-      "version": "1.0.22",
+      "version": "1.0.84",
       "description": "视频剧集",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.22",
+      "tag": "v1.0.84",
       "sha256": {
-        "manifest.json": "421b7cac2ce93d0456dd5887abde891ad15a1977f65f7e8416d2de1f7ed37a7f",
-        "main.js": "5607be38cd3af7e00c54bf6a94663c3e639cc93cb3583f00a95e78d73924c2fb"
+        "manifest.json": "b9ceb64b914e2ddbc35f418f0723cd650887f2538a2f83915a91741731856060",
+        "main.js": "b07ab835dd30cb0cd1bf0912d08f8804f04355938bac7f3d4ba77ea66f9a15e1"
       }
     },
     {
