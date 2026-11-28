@@ -67,8 +67,8 @@
       "repo": "cswcss20/hopeapp-modules",
       "tag": "v1.0.72",
       "sha256": {
-        "manifest.json": "52e2341cae1e4164868a60d8fb4df9b91dce7edf759f107a3f11350f29c03c97",
-        "main.js": "1f0273e2dc53f569dc831d2c9c76fd0136d9eece130982fc94a9de701e651a4c"
+        "manifest.json": "08a861cb0ca98a876468614986edbd5800f7fbe5ca822ef6d6e5887e25c5ddb1",
+        "main.js": "f2323e9923799bed0a148a0acf9aef10008647de00db4f4de99ead3b056631ad"
       }
     },
     {
