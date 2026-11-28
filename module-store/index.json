@@ -368,15 +368,15 @@
     {
       "id": "hsck123",
       "name": "黃色倉庫",
-      "version": "1.0.55",
+      "version": "1.0.83",
       "description": "國產／日本／歐美影片聚合 · 約 25 萬部片庫",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.55",
+      "tag": "v1.0.83",
       "sha256": {
-        "manifest.json": "070d09c37d775eda4fdd9153f4acba350b619214bd29b7cd0bd96f110486360d",
-        "main.js": "93e59b145ec42515801911aefba8b70149c05b684661157b5fd9142cda9f4169"
+        "manifest.json": "2b16ebd1cb1a8311c0b9715744273f5e6bf98083e42d463728ce793fe3646154",
+        "main.js": "069d020c17b15be2ab16b927818a5a40738bc6ab693ff7b27ea4b1803b6764eb"
       }
     },
     {
