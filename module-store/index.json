@@ -410,15 +410,15 @@
     {
       "id": "hgdju",
       "name": "黃瓜短劇",
-      "version": "1.0.62",
+      "version": "1.0.74",
       "description": "原创 · AI短剧 · AI魔改 · AI漫剧 · 真人短剧",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.62",
+      "tag": "v1.0.74",
       "sha256": {
-        "manifest.json": "582f49b691e1b3ea0ae5b817d14e99a0fe528f5499ea96c71e5a8b5134cfb4af",
-        "main.js": "b94f886533e6da90836e52354cf7d9119a7f069c18c1ed78d141525992737d9e"
+        "manifest.json": "34ffa35e932155ca129d8eb89a6bd965c1e6d72a4240cf3e69b9f4a680f4bec6",
+        "main.js": "548dd05586af111597f27f9079f07133057b0c6779a16a77b6ca0e2414633d75"
       }
     }
   ]
