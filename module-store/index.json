@@ -270,15 +270,15 @@
     {
       "id": "fourkvm",
       "name": "4k影视",
-      "version": "1.1.0",
+      "version": "1.0.78",
       "description": "4kvm.net 影视站适配，含分类、筛选、搜索与播放解析",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.1.0",
+      "tag": "v1.0.78",
       "sha256": {
-        "manifest.json": "164871ea490cc079017a615915140bf7459d039b28bdc81ee88f7e372c5545a8",
-        "main.js": "ff25c57ceb6ab317f4c2c7a9aac504ecff570dd4705083453fa671dba7c9b34a"
+        "manifest.json": "9e4a610892765c8f053c33e0fb49effb3f57af2301f17021647c34336d5551c2",
+        "main.js": "0728e4e55e015a3f2b79a54bae0f98f4732d075c1fe500bccf971392f79c4f0b"
       }
     },
     {
