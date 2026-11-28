@@ -200,15 +200,15 @@
     {
       "id": "sorani",
       "name": "青空",
-      "version": "1.0.26",
+      "version": "1.0.65",
       "description": "番剧 · 剧场动画 · 特摄",
       "api": 1,
       "adult": false,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.26",
+      "tag": "v1.0.65",
       "sha256": {
-        "manifest.json": "1790d8603437496d049516f94c39099c69e8d83528a4045a448454809c13e14a",
-        "main.js": "0c9f5b246f3df4954b2534b3d119c383b23a7d5ca18bd87f3a00af1ccede802c"
+        "manifest.json": "1dccaa3f4f559ee1ea26aa2979a3cb5a717aaec79fde6f320e5e57280bfea7ce",
+        "main.js": "f4b33345fe171b1b5022d2e04698658d9a5d28130ddd669e0c4eb45e0d6de8b3"
       }
     },
     {
