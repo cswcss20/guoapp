@@ -312,15 +312,15 @@
     {
       "id": "supjav-cookie",
       "name": "SupJAV",
-      "version": "1.0.49",
+      "version": "1.0.88",
       "description": "supjav.com JAV 模組，含分類、搜尋與 ST 播放解析（需先在模組頁完成瀏覽器驗證）",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.49",
+      "tag": "v1.0.88",
       "sha256": {
-        "manifest.json": "e125ff31a492ad7207298f720aa6124f78644c0e6552089be278aa64338dbe78",
-        "main.js": "d320e83692c0d779c1a0e65be8ba24b3b89bc0125c3fd9e33a3f20de6cb61669"
+        "manifest.json": "0446e853701940b77020b274e374c1924a9d9d7d06789829c3f9e8e28b699785",
+        "main.js": "c41679bb3c0703139efc365e73fc7b95378011af457ec0405dcb9642254dea88"
       }
     },
     {
