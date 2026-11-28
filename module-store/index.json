@@ -88,15 +88,15 @@
     {
       "id": "huangdou",
       "name": "黄豆",
-      "version": "1.0.20",
+      "version": "1.0.70",
       "description": "精选短剧",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.20",
+      "tag": "v1.0.70",
       "sha256": {
-        "manifest.json": "f33cc82454161d95bb27d35be7cd1b5efea505b6eecf15a956b5747df61abfd6",
-        "main.js": "a9e845519c9e562e215d983b026b7f11c8068f33996a5b3fd83ca8325d210dc8"
+        "manifest.json": "7657c8b60840c70b32aefa8c7ef59f4188d5c364760972a43ed67e82797113d6",
+        "main.js": "fecbc474ea668964e080e515f5b7de36f4d1b62bd7cda9af8b528e7945111602"
       }
     },
     {
