@@ -158,15 +158,15 @@
     {
       "id": "ikanbot",
       "name": "爱看机器人",
-      "version": "1.0.81",
+      "version": "1.0.97",
       "description": "爱看机器人（ikanbot）——全网聚合搜索式影视源，多线路可切换",
       "api": 1,
       "adult": false,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.81",
+      "tag": "v1.0.97",
       "sha256": {
-        "manifest.json": "e38036b2e490915a79c4d0cd87afa590783ffb082d74070205da8361d693e776",
-        "main.js": "70a1e60b60668224f58b5ceb94789901a5524b7b8e63f27f37ddaf8fbe82b012"
+        "manifest.json": "b229dce50cc2f02b260cbe621236fb2da7b7a7e180451d281729fbf37dfa9611",
+        "main.js": "9ce7e4bd8b15c54a5533dd53ecadceb93395225da15b6607b8261b276538586f"
       }
     },
     {
