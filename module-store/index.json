@@ -60,15 +60,15 @@
     {
       "id": "hanxiaoquan",
       "name": "韩小圈",
-      "version": "1.0.18",
+      "version": "1.0.72",
       "description": "韩剧 · 韩国电影 · 综艺动漫",
       "api": 1,
       "adult": false,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.18",
+      "tag": "v1.0.72",
       "sha256": {
-        "manifest.json": "bf28c178d6010750e64c7b642e470791830bfea464cd42d8f6b95feba32c642e",
-        "main.js": "0c465f44cc0e8b5aab085551e08e1c7530a90aa08257f8fd9ea320cb00be18e8"
+        "manifest.json": "52e2341cae1e4164868a60d8fb4df9b91dce7edf759f107a3f11350f29c03c97",
+        "main.js": "1f0273e2dc53f569dc831d2c9c76fd0136d9eece130982fc94a9de701e651a4c"
       }
     },
     {
