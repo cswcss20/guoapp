@@ -144,15 +144,15 @@
     {
       "id": "huangju",
       "name": "剧果",
-      "version": "1.0.23",
+      "version": "1.0.67",
       "description": "热门 · 最新 · 分类短剧",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.23",
+      "tag": "v1.0.67",
       "sha256": {
-        "manifest.json": "af225b9722da34f9a8ef7b08678e2e0a09d0a4419ba263286994fa19a2e8c0ec",
-        "main.js": "1d0e42cab29cf46eca8425f901598a18d6018a90e291698791b13d1dde59f03e"
+        "manifest.json": "34bfb8d48f8a84f83f776be512612252e8a6b08f7fde062df5e9d87439bd5056",
+        "main.js": "918bc30b11c0ffe615bfa69c99f9f35214ab7ac523abe65035511653bb641dfc"
       }
     },
     {
