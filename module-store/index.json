@@ -214,15 +214,15 @@
     {
       "id": "yeguo",
       "name": "野果",
-      "version": "1.0.61",
+      "version": "1.0.77",
       "description": "分类短剧 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.61",
+      "tag": "v1.0.77",
       "sha256": {
-        "manifest.json": "a9bb5d21e066f1bf2b0cd03418216625896d558598924e31b4074eaae9ba4954",
-        "main.js": "034d2e3dfa08acdd5c10381824a1eca3c917695a834cde4f3dbce3941bef3a5f"
+        "manifest.json": "5b50e41c59e8d38a3f6ea25e7f81d076da775b71a2bbf93587f73c8152e6ed3f",
+        "main.js": "a0d9e327720c16563098dd452a8c1f3a56c628ddbf487fa3407891e8c2cb90ac"
       }
     },
     {
