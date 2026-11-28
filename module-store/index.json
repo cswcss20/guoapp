@@ -298,14 +298,14 @@
     {
       "id": "7mmtv",
       "name": "7MMTV",
-      "version": "1.0.99",
+      "version": "1.0.109",
       "description": "7mmtv.sx JAV 模組，含分類、FC2 專區、搜尋與 SP 播放解析（480p/720p m3u8）",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.99",
+      "tag": "v1.0.109",
       "sha256": {
-        "manifest.json": "c9c97876e64b681a8d14874a3ba87a6f964324efa76ec0aab9bae8772d290ba7",
+        "manifest.json": "8234fc3ec4c231e583e3392ab1431cebe387f6b134ab967199af92f893d7c36f",
         "main.js": "587d3e19790fbb7f97b46633d6f5d73d41f26ab5b67e3f6129f70805a69ed222"
       }
     },
