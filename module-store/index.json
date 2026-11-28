@@ -340,15 +340,15 @@
     {
       "id": "nyku",
       "name": "女優庫",
-      "version": "1.0.63",
+      "version": "1.0.73",
       "description": "32 萬部影片庫 · 女優／標籤索引 · 有碼／無碼／4K 分類",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.63",
+      "tag": "v1.0.73",
       "sha256": {
-        "manifest.json": "956794b1a798a9bd52c27e525f0cb9d2a615df12b1aa092071fd321ff9cf64d1",
-        "main.js": "6fca3b7955a1be7258ea2a9b1c3defc592b70856029043898af635c95cd7c320"
+        "manifest.json": "84eda3872d8299441289ff39ac4a1c65538dd4f0e665b5bdff85958159c170dc",
+        "main.js": "4f414106c6ec9d9bb09bb203acba34b2829e6797bda12da6c9409c816b1e1a90"
       }
     },
     {
