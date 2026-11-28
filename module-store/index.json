@@ -74,15 +74,15 @@
     {
       "id": "heitao",
       "name": "黑桃",
-      "version": "1.0.19",
+      "version": "1.0.69",
       "description": "分类短剧 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.19",
+      "tag": "v1.0.69",
       "sha256": {
-        "manifest.json": "3afe385462dec8d6f037b84d92ad4cedac7ecb837760f1b02bbacd9b4d36d139",
-        "main.js": "8ace2dfd37b16347c11a06f5c38de0629defcfbc297267932371559690e69964"
+        "manifest.json": "dd4e2526bbab8af5bbe197ac0b83062717b56e0608d99d86b057f21a6d5e7efd",
+        "main.js": "77aa9767464dd71198d136ad785fa60815343fd18c9c74f109771e1fa31a5c92"
       }
     },
     {
