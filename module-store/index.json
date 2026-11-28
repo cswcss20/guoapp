@@ -172,15 +172,15 @@
     {
       "id": "jinguoduanju",
       "name": "禁果短剧",
-      "version": "1.0.25",
+      "version": "1.0.68",
       "description": "推荐 · 分类短剧 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.25",
+      "tag": "v1.0.68",
       "sha256": {
-        "manifest.json": "5267ce5fa514063034219e5602ce591fafa30ee342bc372b979fb40c1cc57bc8",
-        "main.js": "7107f3ac7dd24fe8fe3b962c6e711308727a05db5d6a3e00788f03b281838e0c"
+        "manifest.json": "76221b39c7d2edf874e5ff9dbccec05a50c05bc43f472d81c324cca60e3efdc0",
+        "main.js": "2e2e1a155524f6d5509b67630338cb880e07553737f058c8b58ed865d3b48978"
       }
     },
     {
