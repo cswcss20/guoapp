@@ -396,15 +396,15 @@
     {
       "id": "xykk",
       "name": "小鴨看看",
-      "version": "1.0.64",
+      "version": "1.0.90",
       "description": "小鴨看看影視站适配（電影／電視劇／動漫／綜藝／短劇），含分類、篩選、搜索與多線路播放解析",
       "api": 1,
       "adult": false,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.64",
+      "tag": "v1.0.90",
       "sha256": {
-        "manifest.json": "c568af5028bdf93f9a203e17af33fcf863320af199a584f615e2df7dcff83568",
-        "main.js": "fd65314730f7cc1b7f240000c2281959da805c0a5904682b3857e8133dd97d0d"
+        "manifest.json": "89e4def7293521482a6aa2ac6ad1d8295ca0815582c72380442b021cc77274a9",
+        "main.js": "5df1a7883e280f96489825ed6ce339e0cd42c64b1767bc1939252bd2f81031f3"
       }
     },
     {
