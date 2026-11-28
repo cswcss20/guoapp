@@ -4,15 +4,15 @@
     {
       "id": "beabox",
       "name": "笔盒",
-      "version": "1.0.66",
+      "version": "1.0.92",
       "description": "分类视频 · 在线搜索",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.66",
+      "tag": "v1.0.92",
       "sha256": {
-        "manifest.json": "12c7130d8d01c2c33ad8f46829c0d2682ec8018ec388487fa28a9ef2ac4c0191",
-        "main.js": "d76152696cbe770941371e1065d077905375038b2e7df7ffed0e3688c80e5ab0"
+        "manifest.json": "ec6c97f74551c44bbd3b80ffae5d19876a225de44c0a157d68596a599e395efb",
+        "main.js": "465c1643abe17b8761f65f260ab90a42a8b2a7daaf94c0a0cd1628508dd0e642"
       }
     },
     {
