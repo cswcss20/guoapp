@@ -46,15 +46,15 @@
     {
       "id": "hanime1",
       "name": "Hanime1",
-      "version": "1.0.33",
+      "version": "1.0.85",
       "description": "分类视频 · 在线搜索 · 多清晰度 · 日本 IP 无法访问",
       "api": 1,
       "adult": true,
       "repo": "cswcss20/hopeapp-modules",
-      "tag": "v1.0.33",
+      "tag": "v1.0.85",
       "sha256": {
-        "manifest.json": "99cfb5ad8cf8106816668de9c212898e8125490372ebf7f63691fd2aaeca2627",
-        "main.js": "ba44974d3ae1fe029c4d89be844547f17ca06b5ce6be234cc994d133294f999e"
+        "manifest.json": "afa450236cd5cdc0e87d0baa551c065ecf519c1f40a1ca33c51155aa97c19a33",
+        "main.js": "464c180261dd4048dc527884256124939bd5d8107cc42ba2719ec767133f28a1"
       }
     },
     {
